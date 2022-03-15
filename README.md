@@ -7,7 +7,7 @@
  
  - 👨‍💻 All of my projects are available at [Link](Link)
 
-- 📝 I regularly write articles on <a href="https://medium.com/@srinidhivaja">Resume</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@srinidhivaja">medium</a>
 
 - 💬 Let,s talk about : **React, node.js, mongoDB**
 
