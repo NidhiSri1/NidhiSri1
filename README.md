@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://NidhiSri1.io)
+
 
 <h1 align="center">Hi, I'm Srinidhi V 👩🏻‍💻</h1>
 <h3 align="center">Aspiring full-stack developer with a specialization in MERN stack. Self Motivated and can multitask. Has broad and deep knowledge of HTML. CSS, and JavaScript. Always looking to find creative and simple solutions to technical and complex problems.</h3>
