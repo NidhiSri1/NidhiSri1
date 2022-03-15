@@ -1,4 +1,4 @@
-  <h1 align="center">Hi! I'm Srinidhi V</h1>
+<h1 align="center">Hi! I'm Srinidhi V</h1>
         <h4 align="center">
             Aspiring full-stack developer with a specialization in MERN stack.
             Self Motivated and can multitask. Has broad and deep knowledge of
@@ -22,15 +22,10 @@
         </p>
 
         - 📝 I regularly write articles on
-        <a href="https://medium.com/@srinidhivaja">medium</a>
-        - 💬 Let's talk about **React, node.js, mongoDB** - 📫 How to reach me
+        [https://medium.com/@srinidhivaja](https://medium.com/@srinidhivaja) -
+        💬 Ask me about **React,node.js,mongoDB** - 📫 How to reach me
         **srinidhivaja@gmail.com** - 📄 Know about my experiences
-
-        <a
-            href="https://drive.google.com/file/d/1YwCHE_1LJNUEcxt2RUHYROfuaaC24KMZ/view?usp=sharing"
-            >Resume</a
-        >
-
+        [https://drive.google.com/file/d/1YwCHE_1LJNUEcxt2RUHYROfuaaC24KMZ/view?usp=sharing](https://drive.google.com/file/d/1YwCHE_1LJNUEcxt2RUHYROfuaaC24KMZ/view?usp=sharing)
         - ⚡ Fun fact **🚌 Traveller 🚌**
 
         <h3 align="center">Connect with me:</h3>
@@ -54,7 +49,7 @@
         </p>
 
         <h3 align="center">Languages and Tools:</h3>
-        <div style="display: flex; justify-content: space-around">
+        <p style="display: flex; justify-content: space-around">
             <!-- <p> -->
 
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -144,7 +139,7 @@
                 />
             </a>
             <!-- </p> -->
-        </div>
+        </p>
         <br />
         <p style="margin-left: 41%">
             <img
