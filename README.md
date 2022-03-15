@@ -1,4 +1,4 @@
- <h1 align="center">Hi! I'm Srinidhi V</h1>
+  <h1 align="center">Hi! I'm Srinidhi V</h1>
         <h4 align="center">
             Aspiring full-stack developer with a specialization in MERN stack.
             Self Motivated and can multitask. Has broad and deep knowledge of
@@ -146,18 +146,18 @@
             <!-- </p> -->
         </div>
         <br />
-        <div style="margin-left: 41%">
+        <p style="margin-left: 41%">
             <img
                 align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhisri1&show_icons=true&locale=en&layout=compact"
                 alt="nidhisri1"
             />
-        </div>
+        </p>
         <br />
-        <div style="margin-left: 35%">
+        <p style="margin-left: 35%">
             &nbsp;<img
                 align="center"
                 src="https://github-readme-stats.vercel.app/api?username=nidhisri1&show_icons=true&locale=en"
                 alt="nidhisri1"
             />
-        </div>
+        </p>
