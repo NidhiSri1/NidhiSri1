@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Srinidhi V</h1>
 <h4 align="center">Self Motivated and can multitask. Has broad and deep knowledge of HTML. CSS, and JavaScript. Always looking to find creative and simple solutions to technical and complex problems.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nidhisri1&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisri1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisri1&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisri1" /> </p> -->
 
-<p align="center"> <a href="https://twitter.com/srinidhi__v" target="blank"><img src="https://img.shields.io/twitter/follow/srinidhi__v?logo=twitter&style=for-the-badge" alt="srinidhi__v" /></a> </p>
- 
+<!-- <p align="center"> <a href="https://twitter.com/srinidhi__v" target="blank"><img src="https://img.shields.io/twitter/follow/srinidhi__v?logo=twitter&style=for-the-badge" alt="srinidhi__v" /></a> </p>
+  -->
  - 👨‍💻 Portfolio <a href="https://srinidhi-nidhisri1.vercel.app/#/home">Link</a>
 
 - 📝 I regularly write articles on <a href="https://medium.com/@srinidhivaja">medium</a>
